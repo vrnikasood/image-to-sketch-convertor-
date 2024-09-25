@@ -10,13 +10,19 @@ This Python project converts an image to a outline sketch using OpenCV. The imag
 
 ## Installation
 
-1. **Clone the repository:**
+   1.**Install cv2 library by enetering this into windows command prompt:** <br>
+    ```
+    pip install opencv-python-headless
+    ```
+    
+    
+2. **Clone the repository:**
    ```
    git clone https://github.com/your-repo/image-to-sketch-converter.git
    cd image-to-sketch-converter
    ```
 
-2. **Install dependencies:**
+3. **Install dependencies:**
    Make sure you have Python installed, then install the required libraries using pip:
    ```
    pip install opencv-python
